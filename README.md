@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game development(unity) and website designing
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on unity
-- 📫 How to reach me renbostudios@gmail.com and https://www.renbostudios.epizy.com
+- 📫 How to reach me renbostudios@gmail.com and http://renbostudios.epizy.com
 
 <!---
 Renbo-Studio/Renbo-Studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
