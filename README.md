@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Renbo-Studio
-- 👀 I’m interested in Game development(unity) and website designing
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on unity
-- 📫 How to reach me renbostudios@gmail.com and http://renbostudios.epizy.com
+## Konoha's Frontend Shinobi
+<img align="right" src="https://i.imgur.com/0r5P5d5.gif" width="300">
 
-<!---
-Renbo-Studio/Renbo-Studio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Greetings, fellow shinobi! My name is Joshua Umahi, a proud member of Konohagakure's Frontend Team. I specialize in creating immersive and user-friendly interfaces that make the user experience as smooth as a chakra flow.
+
+With my trusty coding jutsus, I aim to deliver the best web applications for our village's needs. From HTML to CSS, from React to Vue, I am constantly improving my skills to stay ahead of the competition.
+
+But that's not all! Recently, I've been delving into the ways of the backend shinobi as well. With the power of Node.js and MongoDB, I seek to expand my knowledge and become a full-stack ninja.
+
+### Jutsus
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- PHP
+
+### Stats
+![_P.a.i.n.](https://github-readme-stats.vercel.app/api?username=renbo-studio&show_icons=true&theme=onedark)
+
+### Contact
+Feel free to send me a messenger hawk at [Renbo Studio](renbostudios@gmail.com) or visit my personal blog at [Renbo Studio](http://renbostudios.epizy.com) to learn more about my adventures.
+
+Yours truly,
+
+Joshua Umahi
+
