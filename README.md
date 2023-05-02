@@ -16,7 +16,8 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 - PHP
 
 ### Stats
-![_P.a.i.n.](https://github-readme-stats.vercel.app/api?username=renbo-studio&show_icons=true&theme=onedark)
+![_P.a.i.n.](https://github-readme-stats.vercel.app/api?username=renbo-studio&show_icons=true&theme=onedark) ![_P.a.i.n.](https://github-readme-stats.vercel.app/api/?username=yourusername&show_icons=true&theme=onedark)
+
 
 ### Contact
 Feel free to send me a messenger hawk at [Renbo Studio](renbostudios@gmail.com) or visit my personal blog at [Renbo Studio](http://renbostudios.epizy.com) to learn more about my adventures.
