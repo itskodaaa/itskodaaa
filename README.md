@@ -15,9 +15,11 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 - Node.js
 - PHP
 
+<img src="https://media.tenor.com/XfX5NN2Jy60AAAAC/pain-anime.gif">
+
 ### Stats
 ![_P.a.i.n.](https://github-readme-stats.vercel.app/api?username=renbo-studio&show_icons=true&theme=onedark) 
-<img align="right" src="https://media.tenor.com/XfX5NN2Jy60AAAAC/pain-anime.gif">
+
 
 
 ### Contact
