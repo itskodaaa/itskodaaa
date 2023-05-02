@@ -1,5 +1,5 @@
 ## Konoha's Frontend Shinobi
-<img align="right" src="https://i.imgur.com/0r5P5d5.gif" width="300">
+<img align="right" src="[https://i.imgur.com/0r5P5d5.gif](https://media.tenor.com/ujkn0jM1ZasAAAAi/sasori-glitch.gif)" width="300">
 
 Greetings, fellow shinobi! My name is Joshua Umahi, a proud member of Konohagakure's Frontend Team. I specialize in creating immersive and user-friendly interfaces that make the user experience as smooth as a chakra flow.
 
