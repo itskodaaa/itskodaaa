@@ -19,7 +19,7 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 
 <div style="display: flex; flex-direction: row; width: 100%;">
 
-<div style="flex: 50%; padding-right: 10px;">
+<div style="width: 50%; padding: 10px;">
 
 ### 🎓 Aiming for the Stars
 Hey there, I'm [Your Name], a passionate learner on a journey towards a **Bachelor's in Computer Science Engineering**. Every line of code I write is a step closer to making technology work for us.
@@ -35,7 +35,7 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 
 </div>
 
-<div style="flex: 50%; padding-left: 10px;">
+<div tyle="width: 50%; padding: 10px;">
     
 ### My Daily Code Adventures
 
