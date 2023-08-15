@@ -17,8 +17,6 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 
 ---
 
-<div style="display: flex; flex-direction: row; width: 100%;">
-
 <div style="width: 50%; padding: 10px;">
 
 ### 🎓 Aiming for the Stars
@@ -45,7 +43,6 @@ Dive into my daily coding escapades and follow my progress as I embark on a cont
 
 </div>
 
-</div>
 
 ---
 
