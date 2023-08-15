@@ -35,10 +35,6 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 
 </td>
     <td width="50%" valign="top">
-    
-### My Daily Code Adventures
-
-Dive into my daily coding escapades and follow my progress as I embark on a continuous journey of growth and learning.
 
 [![Joshua Umahi's Dev Card](https://api.daily.dev/devcards/32f91f2a536a4ef2bd40610cc9d587cc.png?r=qa3)](https://app.daily.dev/FEAR_KODA)
 
