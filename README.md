@@ -17,6 +17,10 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 
 ---
 
+<div style="display: flex; flex-direction: row; width: 100%;">
+
+<div style="flex: 50%; padding-right: 10px;">
+
 ### 🎓 Aiming for the Stars
 Hey there, I'm [Your Name], a passionate learner on a journey towards a **Bachelor's in Computer Science Engineering**. Every line of code I write is a step closer to making technology work for us.
 
@@ -29,13 +33,19 @@ My ultimate quest? To lend a hand to the digital community. I'm on a mission to 
 ### ✨ Crafting Digital Stories
 When I'm not coding, I'm weaving stories. I thrive on creating diverse and captivating **contents** that resonate with different audiences. It's all about making a lasting impact.
 
----
+</div>
 
+<div style="flex: 50%; padding-left: 10px;">
+    
 ### My Daily Code Adventures
 
 Dive into my daily coding escapades and follow my progress as I embark on a continuous journey of growth and learning.
 
 [![Joshua Umahi's Dev Card](https://api.daily.dev/devcards/32f91f2a536a4ef2bd40610cc9d587cc.png?r=qa3)](https://app.daily.dev/FEAR_KODA)
+
+</div>
+
+</div>
 
 ---
 
