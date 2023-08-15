@@ -15,6 +15,37 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 - Node.js
 - PHP
 
+  <table>
+  <tr>
+    <td valign="center">
+      
+### 🎓 Aiming for the Stars
+Hey there, I'm [Your Name], a passionate learner on a journey towards a **Bachelor's in Computer Science Engineering**. Every line of code I write is a step closer to making technology work for us.
+
+### 🌱 Diving into the Code
+Currently, I'm immersed in the world of **Java**, sharpening my programming skills. But my fascination doesn't stop there – I'm also drawn to the captivating realm of **Web Development**.
+
+### 🎯 Contributing to the Collective
+My ultimate quest? To lend a hand to the digital community. I'm on a mission to contribute to a multitude of **open source projects**, crafting digital wonders that benefit all.
+
+### ✨ Crafting Digital Stories
+When I'm not coding, I'm weaving stories. I thrive on creating diverse and captivating **contents** that resonate with different audiences. It's all about making a lasting impact.
+
+</td>
+    <td>
+    
+### My Daily Code Adventures
+
+Dive into my daily coding escapades and follow my progress as I embark on a continuous journey of growth and learning.
+
+[![Mr. Ånand's Dev Card](https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr)](https://app.daily.dev/Astrodevil)
+    
+    </td>
+    
+  </tr>
+  </table>
+
+
 <img src="https://i.ibb.co/9vM991X/64517385299ac1-39035690-Processed.jpg" width="100%">
 
 ### Stats
