@@ -38,7 +38,7 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 
 Dive into my daily coding escapades and follow my progress as I embark on a continuous journey of growth and learning.
 
-[![Mr. Ånand's Dev Card](https://api.daily.dev/devcards/81fef2c2311f4739a063dbde61b40fe2.png?r=1fr)](https://app.daily.dev/Astrodevil)
+<a href="https://app.daily.dev/FEAR_KODA"><img src="https://api.daily.dev/devcards/32f91f2a536a4ef2bd40610cc9d587cc.png?r=qa3" width="400" alt="Joshua Umahi's Dev Card"/></a>
     
     </td>
     
