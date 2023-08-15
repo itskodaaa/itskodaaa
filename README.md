@@ -17,7 +17,9 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 
 ---
 
-<div style="width: 50%; padding: 10px;">
+<div style="display: flex; width: 100%; padding: 10px;">
+
+<div style="flex: 50%; padding: 10px;">
 
 ### 🎓 Aiming for the Stars
 Hey there, I'm [Your Name], a passionate learner on a journey towards a **Bachelor's in Computer Science Engineering**. Every line of code I write is a step closer to making technology work for us.
@@ -33,7 +35,7 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 
 </div>
 
-<div tyle="width: 50%; padding: 10px;">
+<div style="flex: 50%; padding: 10px;">
     
 ### My Daily Code Adventures
 
@@ -43,6 +45,7 @@ Dive into my daily coding escapades and follow my progress as I embark on a cont
 
 </div>
 
+</div>
 
 ---
 
