@@ -55,7 +55,7 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 ---
 
 ### Contact
-Feel free to send me a messenger hawk at [Renbo Studio](mailto:renbostudios@gmail.com) or visit my personal blog at [Renbo Studio](http://renbo-studios.vercel.com) to learn more about my adventures.
+Feel free to send me a messenger hawk at [Renbo Studio](mailto:renbostudios@gmail.com) or visit my personal blog at [Renbo Studio](http://renbo-studios.vercel.app) to learn more about my adventures.
 
 Yours truly,
 
