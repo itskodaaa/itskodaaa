@@ -45,7 +45,7 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 
 ---
 <div align="center"> 
- <a href="https://hits.sh/github.com/silentsoft/hits/"><img alt="Hits" src="https://hits.sh/github.com/silentsoft/hits.svg"/></a></div>
+ <a href="https://hits.sh/github.com/Renbo-Studio/hits/"><img alt="Hits" src="https://hits.sh/github.com/Renbo-Studio/hits.svg"/></a></div>
 <img src="https://i.ibb.co/9vM991X/64517385299ac1-39035690-Processed.jpg" width="100%">
 
 ---
