@@ -44,9 +44,7 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 </table>
 
 ---
-<div align="center">
  (https://hits.sh/github.com/Renbo-Studio.svg?style=for-the-badge&label=Visitors%20Count&extraCount=6129&labelColor=e9e7e7)](https://hits.sh/github.com/Renbo-Studio/)
-</div>
 <img src="https://i.ibb.co/9vM991X/64517385299ac1-39035690-Processed.jpg" width="100%">
 
 ---
