@@ -34,7 +34,7 @@ My ultimate quest? To lend a hand to the digital community. I'm on a mission to 
 When I'm not coding, I'm weaving stories. I thrive on creating diverse and captivating **contents** that resonate with different audiences. It's all about making a lasting impact.
 
 </td>
-    <td width="50%" valign="right">
+    <td width="50%" align="right">
 
 <a href="https://app.daily.dev/fear_koda"><img src="https://api.daily.dev/devcards/32f91f2a536a4ef2bd40610cc9d587cc.png?r=ded" width="400" alt="Joshua Umahi's Dev Card"/></a>
 
