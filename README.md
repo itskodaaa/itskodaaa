@@ -22,10 +22,10 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
     <td width="50%" valign="top">
 
 ### 🎓 Aiming for the Stars
-Hey there, I'm [Your Name], a passionate learner on a journey towards a **Bachelor's in Computer Science Engineering**. Every line of code I write is a step closer to making technology work for us.
+Hey there, I'm Joshua Umahi, a passionate learner on a journey towards a **Bachelor's in Computer Science Engineering**. Every line of code I write is a step closer to making technology work for us.
 
 ### 🌱 Diving into the Code
-Currently, I'm immersed in the world of **Java**, sharpening my programming skills. But my fascination doesn't stop there – I'm also drawn to the captivating realm of **Web Development**.
+Currently, I'm immersed in the world of **JavaScript**, sharpening my programming skills. But my fascination doesn't stop there – I'm also drawn to the captivating realm of **Web Development**.
 
 ### 🎯 Contributing to the Collective
 My ultimate quest? To lend a hand to the digital community. I'm on a mission to contribute to a multitude of **open source projects**, crafting digital wonders that benefit all.
@@ -36,7 +36,7 @@ When I'm not coding, I'm weaving stories. I thrive on creating diverse and capti
 </td>
     <td width="50%" valign="top">
 
-[![Joshua Umahi's Dev Card](https://api.daily.dev/devcards/32f91f2a536a4ef2bd40610cc9d587cc.png?r=qa3)](https://app.daily.dev/FEAR_KODA)
+<a href="https://app.daily.dev/fear_koda"><img src="https://api.daily.dev/devcards/32f91f2a536a4ef2bd40610cc9d587cc.png?r=ded" width="400" alt="Joshua Umahi's Dev Card"/></a>
 
 </td>
     
