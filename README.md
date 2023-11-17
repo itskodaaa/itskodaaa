@@ -19,7 +19,7 @@ But that's not all! Recently, I've been delving into the ways of the backend shi
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="300" valign="top">
 
 ### 🎓 Aiming for the Stars
 Hey there, I'm Joshua Umahi, a passionate learner on a journey towards a **Bachelor's in Computer Science Engineering**. Every line of code I write is a step closer to making technology work for us.
@@ -34,7 +34,7 @@ My ultimate quest? To lend a hand to the digital community. I'm on a mission to 
 When I'm not coding, I'm weaving stories. I thrive on creating diverse and captivating **contents** that resonate with different audiences. It's all about making a lasting impact.
 
 </td>
-    <td width="50%" align="right">
+    <td width="300" align="right">
 
 <a href="https://app.daily.dev/fear_koda"><img src="https://api.daily.dev/devcards/32f91f2a536a4ef2bd40610cc9d587cc.png?r=jfj" width="400" alt="Joshua Umahi's Dev Card"/></a>
 
