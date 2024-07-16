@@ -39,7 +39,7 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 
 ## WakaTime Stats
 
-[![wakatime](https://wakatime.com/badge/user/5835380e-a28f-4635-8031-1f784f266fa9.svg)](https://wakatime.com/@5835380e-a28f-4635-8031-1f784f266fa9)
+[![Joshua's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/renbo-studio/github-readme-stats)
 
 ## Experience
 
