@@ -37,9 +37,9 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 
-## WakaTime Stats
+## Most Used
 
-[![Joshua's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/renbo-studio/github-readme-stats)
+[![Joshua](https://github-readme-stats.vercel.app/api/top-langs/?username=Renbo-Studio&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experience
 
