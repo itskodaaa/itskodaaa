@@ -39,7 +39,7 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 
 ## Most Used
 
-[![Joshua](https://github-readme-stats.vercel.app/api/top-langs/?username=Renbo-Studio&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Joshua](https://github-readme-stats.vercel.app/api/top-langs/?username=Renbo-Studio&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experience
 
