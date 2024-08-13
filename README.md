@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/ujkn0jM1ZasAAAAi/sasori-glitch.gif" width="200">
 
-Nigeria, Abuja | [![Portfolio](src="https://instagram.fabv2-2.fna.fbcdn.net/v/t51.2885-19/434435177_2114172825627249_3838250074000108355_n.jpg)](https://renbo-studios.vercel.app/) | joshuaumahi2005@gmail.com
+Nigeria, Abuja | [![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://renbo-studios.vercel.app/) | joshuaumahi2005@gmail.com
 
 Passionate and experienced web developer with a strong technical skill set, aiming to leverage expertise in developing innovative web applications and drive technological advancements.
 
