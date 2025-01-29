@@ -37,13 +37,13 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 
-## Most Used
+## Most Used & Stats
 
-[![Joshua](https://github-readme-stats.vercel.app/api/top-langs/?username=itskodaaa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskodaaa&layout=donut" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=itskodaaa&show_icons=true&theme=radical" height="180">
+</p>
 
-[![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskodaaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itskodaaa&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 ## Experience
