@@ -41,6 +41,11 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 
 [![Joshua](https://github-readme-stats.vercel.app/api/top-langs/?username=itskodaaa&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itskodaaa&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itskodaaa&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 ## Experience
 
 - **Chief Technology Officer** at Green Link (February 2024 - Present)
