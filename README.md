@@ -47,8 +47,6 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 </p>
 
 
-.
-
 
 ## Experience
 
@@ -89,4 +87,4 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 <a href="https://hits.sh/github.com/Renbo-Studio/hits/"><img alt="Hits" src="https://hits.sh/github.com/Renbo-Studio/hits.svg?style=for-the-badge&label=visitors%20count&extraCount=3195&labelColor=e4e3e3"/></a>
 </div>
 
-© Joshua Umahi 2024
+© Joshua Umahi 2025
