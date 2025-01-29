@@ -40,9 +40,10 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 ## Most Used & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskodaaa&layout=compact&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=itskodaaa&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskodaaa&layout=compact&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=itskodaaa&show_icons=true&theme=radical" width="400">
 </p>
+
 
 
 
