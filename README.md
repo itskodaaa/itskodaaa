@@ -48,7 +48,7 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 
 ## Streaks
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=itskodaaa&theme=radical&hide_border=true" height="180">
 </p>
 
