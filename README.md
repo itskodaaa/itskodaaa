@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/ujkn0jM1ZasAAAAi/sasori-glitch.gif" width="200">
 
-Nigeria, Abuja | joshuaumahi2005@gmail.com | [![Portfolio](https://img.shields.io/badge/Open_Portfolio-black)](https://renbo-studios.vercel.app/) 
+Nigeria, Abuja | ceo@renbostudios.com | [![Portfolio](https://img.shields.io/badge/Open_Portfolio-black)](https://koda.renbostudios.com/) 
 
 Passionate and experienced web developer with a strong technical skill set, aiming to leverage expertise in developing innovative web applications and drive technological advancements.
 
@@ -41,7 +41,7 @@ Passionate and experienced web developer with a strong technical skill set, aimi
 
 
 <p align="left">
-  <img src="https://bad-apple-github-readme.vercel.app/api?username=itskodaaa&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="180">
+  <img src="https://bad-apple-github-readme.vercel.app/api?username=itskodaaa" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskodaaa&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" height="180">
 </p>
 
