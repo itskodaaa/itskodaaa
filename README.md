@@ -1,47 +1,50 @@
-<img align="right" src="https://media.tenor.com/ujkn0jM1ZasAAAAi/sasori-glitch.gif" width="180">
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Header Banner" />
+</p>
 
-## 🩸 About me
+<img align="right" src="https://media.tenor.com/ujkn0jM1ZasAAAAi/sasori-glitch.gif" width="160">
 
-I'm a **Software Engineer** and **Founder of [Renbo Studios](https://renbostudios.com)** — I build production software, ship mobile apps, and design developer infrastructure.
+## About me
+
+I'm a **Software Engineer** and **Founder of [Renbo Studios](https://renbostudios.com)** — building production SaaS, mobile applications, and developer infrastructure.
 
 Currently studying Software Engineering at Miva University, Abuja 🇳🇬
 
-- 🔭 Building AI agent platforms, edge OTA infra, and multi-channel messaging APIs
-- ⚡ I like clean architecture, fast shipping, and good DX
-- 🎮 Anime enjoyer
+- 🔭 Building AI agent platforms, edge OTA infra, and messaging APIs
+- ⚡ Focused on clean architecture, fast shipping, and developer ergonomics
 
 <br clear="right"/>
 
 ---
 
-## 🩸 What I've built
+## What I've built
 
 **Open Source**
-- [Velox](https://github.com/itskodaaa/Velox) — macOS dictation app powered by Whisper Large v3. Open-source alternative to Wispr Flow
-- [Edge OTA](https://github.com/renbostudios/edge-ota) — Serverless OTA update engine for Expo & React Native on Cloudflare Edge · [npm](https://www.npmjs.com/package/@renbostudios/edge-ota) · [ota.renbo.site](https://ota.renbo.site)
-- [GhostWriter](https://github.com/itskodaaa/GhostWriter) — Automated YouTube-to-TikTok video clipping engine with hardware-accelerated transcoding
-- [LeadMachine](https://github.com/itskodaaa/LeadMachine) — Autonomous B2B lead discovery & outreach engine
+- [Velox](https://github.com/itskodaaa/Velox) — Whisper-powered macOS dictation app
+- [Edge OTA](https://github.com/renbostudios/edge-ota) — Serverless Expo OTA update engine · [npm](https://www.npmjs.com/package/@renbostudios/edge-ota) · [ota.renbo.site](https://ota.renbo.site)
+- [GhostWriter](https://github.com/itskodaaa/GhostWriter) — Automated video clipping engine
+- [LeadMachine](https://github.com/itskodaaa/LeadMachine) — Autonomous B2B outreach engine
 
 **Production Software**
-- [Vozia](https://vozia.renbostudios.com) — AI conversational agent platform with WebRTC voice, RAG, and embeddable web SDK · [Play Store](https://play.google.com/store/apps/details?id=com.renbostudios.vozia)
-- [CityPal](https://citypal.app) — Hyper-local community network & business discovery · [App Store](https://apps.apple.com/us/app/citypal/id6759269853) · [Play Store](https://play.google.com/store/apps/details?id=com.renbostudios.citypalapp)
-- [Abdella Health](https://abdella.app) — Clinical healthcare learning platform for nursing students with AI tutoring & WebRTC
-- [Conduit](https://conduit.renbo.site) — Unified messaging API — WhatsApp, email (SES), and SMS (Twilio) through one REST API
-- [Nurio](https://nurio.sh) — Autonomous AI-powered subdirectory SEO engine
-- [Renbo Studios](https://renbostudios.com) — My software studio's official site
-- [Kodafolio](https://koda.renbostudios.com) — My personal portfolio
+- [Vozia](https://vozia.renbostudios.com) — Conversational AI agent platform · [Play Store](https://play.google.com/store/apps/details?id=com.renbostudios.vozia)
+- [CityPal](https://citypal.app) — Hyper-local community social network · [App Store](https://apps.apple.com/us/app/citypal/id6759269853) · [Play Store](https://play.google.com/store/apps/details?id=com.renbostudios.citypalapp)
+- [Abdella Health](https://abdella.app) — Clinical healthcare learning platform
+- [Conduit](https://conduit.renbo.site) — Unified multi-channel messaging API
+- [Nurio](https://nurio.sh) — Autonomous AI SEO engine
+- [Renbo Studios](https://renbostudios.com) — Digital product software studio
+- [Kodafolio](https://koda.renbostudios.com) — Personal developer portfolio website
 
 **More projects** — PitchCue · Smart Attendance System · GadgetVault · AroundMe · Orbit · CareerM8 Bot
 
 ---
 
-## 🩸 My daily drivers
+## My daily drivers
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,svelte,react,nextjs,fastify" height="38" />
 </p>
 
-## 🩸 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -59,7 +62,7 @@ Currently studying Software Engineering at Miva University, Abuja 🇳🇬
   <img src="https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white" />
 </p>
 
-## 🩸 Languages & tools I use
+## Languages & tools I use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,swift,py,dart,react,svelte,nextjs,vue,angular,tailwind,express,fastapi,graphql,postgres,supabase,prisma,redis,docker,cloudflare,aws,vercel,firebase,git&perline=12" />
@@ -67,7 +70,7 @@ Currently studying Software Engineering at Miva University, Abuja 🇳🇬
 
 ---
 
-## 🩸 Analytics
+## Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskodaaa&theme=tokyonight&hide_border=true&background=00000000" height="180" />
