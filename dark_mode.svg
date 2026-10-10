@@ -18,46 +18,96 @@
   .ascii { fill: #c9d1d9; }
   .hdr { fill: #f0f6fc; font-weight: 600; }
   text, tspan { white-space: pre; }
+
+  /* CRT Electron Beam Scanline Animation over Letter K */
+  @keyframes crtBeam {
+    0%, 100% {
+      fill: #8b949e;
+      opacity: 0.8;
+    }
+    14% {
+      fill: #3fb950;
+      opacity: 1;
+      filter: drop-shadow(0 0 4px rgba(63, 185, 80, 0.75));
+    }
+    28% {
+      fill: #c9d1d9;
+      opacity: 0.9;
+    }
+  }
+
+  @keyframes cursorBlink {
+    0%, 49% { opacity: 1; }
+    50%, 100% { opacity: 0; }
+  }
+
+  .k-line {
+    animation: crtBeam 3.6s ease-in-out infinite;
+  }
+  .k-0  { animation-delay: 0.00s; }
+  .k-1  { animation-delay: 0.08s; }
+  .k-2  { animation-delay: 0.16s; }
+  .k-3  { animation-delay: 0.24s; }
+  .k-4  { animation-delay: 0.32s; }
+  .k-5  { animation-delay: 0.40s; }
+  .k-6  { animation-delay: 0.48s; }
+  .k-7  { animation-delay: 0.56s; }
+  .k-8  { animation-delay: 0.64s; }
+  .k-9  { animation-delay: 0.72s; }
+  .k-10 { animation-delay: 0.80s; }
+  .k-11 { animation-delay: 0.88s; }
+  .k-12 { animation-delay: 0.96s; }
+  .k-13 { animation-delay: 1.04s; }
+  .k-14 { animation-delay: 1.12s; }
+  .k-15 { animation-delay: 1.20s; }
+  .k-16 { animation-delay: 1.28s; }
+  .k-17 { animation-delay: 1.36s; }
+  .k-18 { animation-delay: 1.44s; }
+
+  .term-cursor {
+    animation: cursorBlink 1s step-end infinite;
+    fill: #3fb950;
+  }
 </style>
 
 <!-- Card Surface -->
 <rect width="1160" height="535" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1"/>
 
-<!-- ASCII Graphic (Left Column) -->
+<!-- ASCII Graphic (Left Column with Animated Phosphor Beam) -->
 <text x="42" y="105" class="font-mono ascii" font-size="13px">
 <tspan x="42" y="110.0">                                                                  </tspan>
-<tspan x="42" y="128.5">             +      =++++++=          =+++++*+     ==             </tspan>
-<tspan x="42" y="147.0">           =###*=   +######+         +######*    *###+            </tspan>
-<tspan x="42" y="165.5">          =#####=   =######=        *######=     *####*           </tspan>
-<tspan x="42" y="184.0">         *####+     =######=      =######+        =#####          </tspan>
-<tspan x="42" y="202.5">        *####=      =######=     +#####*=           *####=        </tspan>
-<tspan x="42" y="221.0">      =####*        =######=    *#####+              +####+       </tspan>
-<tspan x="42" y="239.5">     +####+         =######+  =#####*                 =*###*      </tspan>
-<tspan x="42" y="258.0">    *###*           =######= +#####=                    +####=    </tspan>
-<tspan x="42" y="276.5">   *###+            =######+*####*                       =####=   </tspan>
-<tspan x="42" y="295.0">  ####=             =##########*=                          ####=  </tspan>
-<tspan x="42" y="313.5">  =####=            =##########*                          *###+   </tspan>
-<tspan x="42" y="332.0">    *###*           =############+                      +####=    </tspan>
-<tspan x="42" y="350.5">     +####=         =######**######=                   *###*      </tspan>
-<tspan x="42" y="369.0">      +####+        =######= +######*=               =####*       </tspan>
-<tspan x="42" y="387.5">       =####*=      =######+   +######*             *####+        </tspan>
-<tspan x="42" y="406.0">         *####+     =######=     *######+         =#####=         </tspan>
-<tspan x="42" y="424.5">          +####*=   =######=      =*######+      +####*           </tspan>
-<tspan x="42" y="443.0">           =####+   =######+        =#######+   =*###*            </tspan>
-<tspan x="42" y="461.5">             +=     =******=          +******+     +=             </tspan>
-<tspan x="42" y="480.0">                                                                  </tspan>
+<tspan x="42" y="128.5" class="k-line k-0">             +      =++++++=          =+++++*+     ==             </tspan>
+<tspan x="42" y="147.0" class="k-line k-1">           =###*=   +######+         +######*    *###+            </tspan>
+<tspan x="42" y="165.5" class="k-line k-2">          =#####=   =######=        *######=     *####*           </tspan>
+<tspan x="42" y="184.0" class="k-line k-3">         *####+     =######=      =######+        =#####          </tspan>
+<tspan x="42" y="202.5" class="k-line k-4">        *####=      =######=     +#####*=           *####=        </tspan>
+<tspan x="42" y="221.0" class="k-line k-5">      =####*        =######=    *#####+              +####+       </tspan>
+<tspan x="42" y="239.5" class="k-line k-6">     +####+         =######+  =#####*                 =*###*      </tspan>
+<tspan x="42" y="258.0" class="k-line k-7">    *###*           =######= +#####=                    +####=    </tspan>
+<tspan x="42" y="276.5" class="k-line k-8">   *###+            =######+*####*                       =####=   </tspan>
+<tspan x="42" y="295.0" class="k-line k-9">  ####=             =##########*=                          ####=  </tspan>
+<tspan x="42" y="313.5" class="k-line k-10">  =####=            =##########*                          *###+   </tspan>
+<tspan x="42" y="332.0" class="k-line k-11">    *###*           =############+                      +####=    </tspan>
+<tspan x="42" y="350.5" class="k-line k-12">     +####=         =######**######=                   *###*      </tspan>
+<tspan x="42" y="369.0" class="k-line k-13">      +####+        =######= +######*=               =####*       </tspan>
+<tspan x="42" y="387.5" class="k-line k-14">       =####*=      =######+   +######*             *####+        </tspan>
+<tspan x="42" y="406.0" class="k-line k-15">         *####+     =######=     *######+         =#####=         </tspan>
+<tspan x="42" y="424.5" class="k-line k-16">          +####*=   =######=      =*######+      +####*           </tspan>
+<tspan x="42" y="443.0" class="k-line k-17">           =####+   =######+        =#######+   =*###*            </tspan>
+<tspan x="42" y="461.5" class="k-line k-18">             +=     =******=          +******+     +=             </tspan>
+<tspan x="42" y="480.0">  [SYSTEM_STATUS: ONLINE] <tspan class="term-cursor">█</tspan>                               </tspan>
 </text>
 
 <!-- Section Dividers (Flush with text right edge) -->
 <line x1="800" y1="31" x2="1115" y2="31" stroke="#30363d" stroke-width="1"/>
-<line x1="715" y1="289" x2="1115" y2="289" stroke="#30363d" stroke-width="1"/>
-<line x1="755" y1="423" x2="1115" y2="423" stroke="#30363d" stroke-width="1"/>
+<line x1="715" y1="281" x2="1115" y2="281" stroke="#30363d" stroke-width="1"/>
+<line x1="755" y1="426" x2="1115" y2="426" stroke="#30363d" stroke-width="1"/>
 
 <!-- Info Panel (Right Column) -->
 <text x="620" y="35" class="font-mono" font-size="13px">
 <tspan x="620" y="35" class="hdr">Joshua Umahi (Koda)</tspan>
 <tspan x="620" y="64" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="val">Software &amp; Systems Engineer</tspan>
-<tspan x="620" y="82.5" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> .................... </tspan><tspan class="val">4+ Years Shipping Production</tspan>
+<tspan x="620" y="82.5" class="cc">. </tspan><tspan class="key">Experience</tspan>:<tspan class="cc"> .................... </tspan><tspan class="val">5+ Years Shipping Production</tspan>
 <tspan x="620" y="101.0" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................ </tspan><tspan class="val">Abuja, Nigeria (Remote / Relocate)</tspan>
 <tspan x="620" y="119.5" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................... </tspan><tspan class="val">Open to Opportunities (Full-Time)</tspan>
 <tspan x="620" y="138.0" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .................... </tspan><tspan class="val">High-Performance Web, Mobile &amp; AI</tspan>
@@ -66,16 +116,17 @@
 <tspan x="620" y="193.5" class="cc">. </tspan><tspan class="key">Frameworks.Web</tspan>:<tspan class="cc"> ............. </tspan><tspan class="val">React, Next.js, Fastify, Svelte</tspan>
 <tspan x="620" y="212.0" class="cc">. </tspan><tspan class="key">Frameworks.Mobile</tspan>:<tspan class="cc"> ............. </tspan><tspan class="val">React Native, Swift, Flutter</tspan>
 <tspan x="620" y="230.5" class="cc">. </tspan><tspan class="key">Cloud &amp; Systems</tspan>:<tspan class="cc"> ........ </tspan><tspan class="val">Docker, Cloudflare, Supabase, Redis</tspan>
-<tspan x="620" y="249.0" class="cc">. </tspan><tspan class="key">Flagship.Apps</tspan>:<tspan class="cc"> .............. </tspan><tspan class="val">Vozia, CityPal, Velox, Edge OTA</tspan>
-<tspan x="620" y="293" class="hdr">- Contact</tspan>
-<tspan x="620" y="318" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="val">koda.renbostudios.com</tspan>
-<tspan x="620" y="336.5" class="cc">. </tspan><tspan class="key">Email.Work</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="val">ceo@renbostudios.com</tspan>
-<tspan x="620" y="355.0" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="val">linkedin.com/in/joshuaumahi</tspan>
-<tspan x="620" y="373.5" class="cc">. </tspan><tspan class="key">X / Twitter</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="val">@this_iskoda</tspan>
-<tspan x="620" y="392.0" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="val">github.com/itskodaaa</tspan>
-<tspan x="620" y="427" class="hdr">- GitHub Stats</tspan>
-<tspan x="620" y="452" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="val">82</tspan><tspan class="cc"> (</tspan><tspan class="key">Public</tspan>: <tspan class="val">47</tspan><tspan class="cc">)      | </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................ </tspan><tspan class="val">67</tspan>
-<tspan x="620" y="471" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="val">5,494</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="val">13</tspan>
-<tspan x="620" y="490" class="cc">. </tspan><tspan class="key">Contributions</tspan>:<tspan class="cc"> .......... </tspan><tspan class="val">5,644</tspan><tspan class="cc"> ( </tspan><tspan class="add">79-day Streak</tspan><tspan class="cc">, </tspan><tspan class="val">8+ Shipped</tspan><tspan class="cc"> )</tspan>
+<tspan x="620" y="249.0" class="cc">. </tspan><tspan class="key">Flagship.Apps</tspan>:<tspan class="cc"> .............. </tspan><tspan class="val">Edge OTA, Vozia, Conduit, CityPal</tspan>
+<tspan x="620" y="285" class="hdr">- Contact</tspan>
+<tspan x="620" y="308" class="cc">. </tspan><tspan class="key">WhatsApp</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="val">+234 706 586 3541</tspan>
+<tspan x="620" y="326.5" class="cc">. </tspan><tspan class="key">Email.Work</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="val">ceo@renbostudios.com</tspan>
+<tspan x="620" y="345.0" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="val">koda.renbostudios.com</tspan>
+<tspan x="620" y="363.5" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="val">linkedin.com/in/joshuaumahi</tspan>
+<tspan x="620" y="382.0" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="val">github.com/itskodaaa</tspan>
+<tspan x="620" y="400.5" class="cc">. </tspan><tspan class="key">X / Twitter</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="val">@this_iskoda</tspan>
+<tspan x="620" y="430" class="hdr">- GitHub Stats</tspan>
+<tspan x="620" y="454" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="val">82</tspan><tspan class="cc"> (</tspan><tspan class="key">Public</tspan>: <tspan class="val">47</tspan><tspan class="cc">)      | </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ................ </tspan><tspan class="val">67</tspan>
+<tspan x="620" y="472.5" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="val">5,494</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ............ </tspan><tspan class="val">13</tspan>
+<tspan x="620" y="491.0" class="cc">. </tspan><tspan class="key">Contributions</tspan>:<tspan class="cc"> .......... </tspan><tspan class="val">5,644</tspan><tspan class="cc"> ( </tspan><tspan class="add">79-day Streak</tspan><tspan class="cc">, </tspan><tspan class="val">8+ Shipped</tspan><tspan class="cc"> )</tspan>
 </text>
 </svg>
